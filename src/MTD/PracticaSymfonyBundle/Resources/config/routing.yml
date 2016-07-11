@@ -1,0 +1,3 @@
+mtd_practica_symfony_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: MTDPracticaSymfonyBundle:Default:index }
